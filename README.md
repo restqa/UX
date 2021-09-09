@@ -89,13 +89,13 @@
   <summary>Do we have a competitors that similar to RestQA?</summary>
   
   ### Open Source
-    1. [Karate Dsl](https://github.com/intuit/karate)
-    2. [Cypress](https://www.cypress.io/)
-    3. 
+  1. [Karate Dsl](https://github.com/intuit/karate)
+  2. [Cypress](https://www.cypress.io/)
+  3. 
   ### SaaS
-    1. [Postman](https://www.postman.com/)
-    2. [API fortress](https://apifortress.com/)
-    3. [Assertible](https://assertible.com/)
+  1. [Postman](https://www.postman.com/)
+  2. [API fortress](https://apifortress.com/)
+  3. [Assertible](https://assertible.com/)
   
 </details>
 
